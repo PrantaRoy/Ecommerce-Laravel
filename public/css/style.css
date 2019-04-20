@@ -1,0 +1,17 @@
+.bg-light {
+
+    background-color: #a1bbd5 !important;
+
+}
+
+.margin-top-20px{
+    margin-top: 20px;
+}
+.featured-image{
+    max-height: 200px;
+}
+.footer-bottom{
+    padding: 20px;
+    margin-top: 20px;
+    background: #819dd5;
+}
